@@ -1,99 +1,21 @@
-# School Cafeteria Management System
+# Web Development 1 First Year
+
+# Activity 2
 
 ## Problem Description
 
-The school cafeteria wants to automate its billing system. Students can buy multiple items in one transaction, and the system should calculate the total bill, apply discounts if applicable, and display a receipt.
+A user want to have a login form with the recommended input Name, Email, Password, Confirm Password, Since you are the developer who is responsible for this task. The user have no idea what design should apply to the new features they want to add which is this login page. As a developer you need to think what should you apply for this login design. Think and apply your own idea for this task and make user be happy about your solution. 
 
-Your task is to write a **C# program** to simulate the school cafeteria billing system.
+Your task required to use **HTML** and **CSS** only to showcase your talent of how your idea comes to your brain and makes real.
 
----
-
-## Problem Statement
-
-Write a C# program to simulate the school cafeteria billing system. The program should do the following:
-
-1. **Display Menu:**  
-   Display the following menu of available food items and their prices:
-
-   - **Burger** - 50
-   - **Fries** - 30
-   - **Soda** - 20
-   - **Sandwich** - 40
-
-2. **Accept User Input:**
-
-   - Allow the user to select items by entering the item number (e.g., `1` for Burger, `2` for Fries, etc.).
-   - Prompt the user to enter the **quantity** for the selected item.
-   - Use an **array** or **List** to store item prices and names.
-
-3. **Calculate Total Cost:**  
-   Compute the total cost of the selected items. If the total exceeds `200`, apply a **5% discount** to the total.
-
-4. **Display Receipt:**  
-   Show a receipt that includes:
-
-   - Each item purchased with its **quantity** and **total price**.
-   - The **total bill** before and after applying the discount (if applicable).
-
-5. **Exit Option:**  
-   Allow the user to exit the program by entering `0` when prompted for an item number.
+**Take note:** I don't allow to used AI generated, I know who used chatgpt or other AI platform to generate code thou your syntax looks like you are the owner, make your own, try with your own Idea, Mind and force yourself to understand.
 
 ---
 
-## Sample Input/Output
+## Guide
 
-### Example 1: No Discount
+Apply our latest topic last week about applying styles on html elements. Use external way of applying styles and use class attributes on html elements as css selectors to make your codebase clean and readable.
 
-#### **Input:**
 
-```cmd
-Welcome to the School Cafeteria!
-
-Menu:
-1. Burger - 50
-2. Fries - 30
-3. Soda - 20
-4. Sandwich - 40
-
-Enter the item number (or 0 to finish): 1
-Enter the quantity: 2
-Enter the item number (or 0 to finish): 3
-Enter the quantity: 3
-Enter the item number (or 0 to finish): 0
-
-```
-
-### **Output:**
-
-```cmd
-Receipt:
-Item         Quantity       Total
-Burger       2             100
-Soda         3             60
-
-Total before discount: 160
-Discount applied: 0
-Final total: 160
-
-```
-
-### If Discount Apply
-
-```cmd
-Receipt:
-Item         Quantity       Total
-Burger       3             150
-Fries        2             60
-
-Total before discount: 210
-Discount applied: 5
-Final total: 189
-
-```
-
-## Requirements
-
-1. Use **arrays** or **List** to store item details.
-2. Use **loops** for user input and calculations.
-3. Use **if-else** statements for discount logic.
-4. Ensure the receipt output is neatly formatted.
+## Due
+Submission will be March 4 2025 on or before 5pm
