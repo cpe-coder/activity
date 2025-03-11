@@ -1,9 +1,5 @@
 `Web Development 1 First Year`
 
-<h1 align="left">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&pause=2000&weight=500&size=30&color=00F7E4&repeat=true&width=600&height=50&lines=Midterm+Examination;" />
-</h1>
-
 `Problem Description`
 
 In the past activity you are done by developing a simple login page with some of the details, Now the client is not satisfied for this features, since the user can login without having an existing account.
@@ -43,5 +39,5 @@ Submission will be March 14 2025 on or before 5pm
 
 <br>
 <h3 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F7F400&center=true&vCenter=true&lines=Good+Luck!;God+Bless%F0%9F%98%87;" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=09202AFF&center=true&vCenter=true&lines=Good+Luck!;God+Bless%F0%9F%98%87;" />
 </h3>
