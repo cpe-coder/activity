@@ -1,21 +1,47 @@
-# Web Development 1 First Year
+`Web Development 1 First Year`
 
-# Activity 2
+<h1 align="left">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Hack+Nerd+Font&pause=2000&weight=500&size=30&color=00F7E4&repeat=true&width=600&height=50&lines=Midterm+Examination;" />
+</h1>
 
-## Problem Description
+`Problem Description`
 
-A user want to have a login form with the recommended input Name, Email, Password, Confirm Password, Since you are the developer who is responsible for this task. The user have no idea what design should apply to the new features they want to add which is this login page. As a developer you need to think what should you apply for this login design. Think and apply your own idea for this task and make user be happy about your solution. 
+In the past activity you are done by developing a simple login page with some of the details, Now the client is not satisfied for this features, since the user can login without having an existing account.
+The client decide that they need a features that user can create account first before to login, So the client want to add additional features on the website which Registration page.
 
-Your task required to use **HTML** and **CSS** only to showcase your talent of how your idea comes to your brain and makes real.
+</br>
+The client send the details to apply on the registation form.
 
-**Take note:** I don't allow to used AI generated, I know who used chatgpt or other AI platform to generate code thou your syntax looks like you are the owner, make your own, try with your own Idea, Mind and force yourself to understand.
-
+`First Name: 
+`
+</br>
+`Last Name: `
+</br>
+`Email Add: `
+</br>
+`Password: `
+</br>
+`Confirm Password: `
+</br>
+`Terms and Condition: `
+</br>
 ---
 
-## Guide
+## Other info
 
-Apply our latest topic last week about applying styles on html elements. Use external way of applying styles and use class attributes on html elements as css selectors to make your codebase clean and readable.
+You need to update Login form and remove the name and confirm password, make sure that only email add and password only have on login form.
+</br>
+Since you are familiar with register and login page like some of the websites you encountered on the browser. Make sure the register and login have a link button to redirect to each other.
 
+## Note
+
+Make sure the theme or design of the register are the same to login.
 
 ## Due
-Submission will be March 4 2025 on or before 5pm
+
+Submission will be March 14 2025 on or before 5pm
+
+</br>
+<h3 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F7F400&center=true&vCenter=true&lines=Good+Luck!;God+Bless%F0%9F%98%87;" />
+</h3>
